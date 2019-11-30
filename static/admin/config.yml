@@ -12,8 +12,8 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: "posty"
-    label: "Posty"
+  - name: "blog"
+    label: "Blog"
     folder: "src/pages/blog"
     create: true
     slug: "{{slug}}"
