@@ -6,10 +6,7 @@ description: .........
 featuredpost: true
 featuredimage: /img/28164846_2104552503165166_1735388594743982447_o.jpg
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - '#kot #kociblog'
 ---
 ## 🔊 Poznajcie nas bliżej
 
