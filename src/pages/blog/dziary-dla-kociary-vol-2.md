@@ -14,6 +14,8 @@ tags:
   - tatuaże
   - ''
 ---
+![](/img/53334443_2391350277818719_7888263263706677248_o.jpg)
+
 Zapraszam do obejrzenia foto reportażu 📸 z akcji charytatywnej Dziary dla Kociary vol.2 . Osoby chcące wziąć udział zapisywały się wcześniej na listę konsultując z Michałem swoje wzory. Całe wydarzenie miało miejsce 4 marca w studio Misiek Tattoo w Tarnowskich Górach. Na miejscu była już wolontariuszka która reprezentowała fundacje i wspierała uczestników. Od progu w nozdrza uderzał zapach pachnących muffinek bananowych i świeżej kawy oraz słychać było zgrzytanie zębów. Żart, nie było aż tak źle. Swoje uczestnictwo zgłosili sami miłośnicy tatuaży. Misiek ponownie stanął na wysokości zadania tworząc niesamowite kocie podobizny.  Które możecie podziwić poniżej. 
 
 Z całego serca zachęcam was do wzięcia udziału w tego typu akcjach. 
