@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Hello World
 date: 2019-01-04T15:04:00.000Z
-description: .........
+description: "Witajcie kotomaniacy \U0001F60Dna Kocim Blogu gdzie będę pisać o kotkach i dla kotków, nie zabraknie tu wpisów dla ich sługusów. \U0001F606 "
 featuredpost: true
 featuredimage: /img/28164846_2104552503165166_1735388594743982447_o.jpg
 tags:
