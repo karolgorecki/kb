@@ -8,6 +8,8 @@ featuredimage: /img/28164846_2104552503165166_1735388594743982447_o.jpg
 tags:
   - '#kot #kociblog'
 ---
+![](/img/28164846_2104552503165166_1735388594743982447_o.jpg)
+
 ## 🔊 Poznajcie nas bliżej
 
 Prowadzę stronę Kociaciocia.foto gdzie możecie śledzić co się dzieje w kocim świecie Kici i Kisielka.
@@ -25,8 +27,6 @@ A to wszystko dzięki nim:
 Swojska kobita z niej,  jak była mała to był niej niezły gryzoń. Bunt dwulatka mamy już za sobą, teraz to sama słodycz. Bawi się z Kisielkiem w ganianego i liczą razem gołębie. Ale spokojnie z dziubków sobie nie jedzą 😆 Jak standardowe rodzeństwo 
 
 Jej futerko jest extremalnie mięciutkie, głośno domaga się przytylania i nie uznaje odmowy zawsze w południe 😎 .
-
-
 
 ## Kisiel  🐾
 
