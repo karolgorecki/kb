@@ -4,7 +4,7 @@ title: Nowy na pokładzie!
 date: 2018-04-03T14:04:00.000Z
 description: 'Śpieszę z radosną nowiną, że mamy nowego osobnika w domu.'
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/29749807_2130347390585677_271129544962184851_o.jpg
 tags:
   - kot
   - dokocenie
