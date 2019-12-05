@@ -18,4 +18,4 @@ tags:
   - kociblog
   - koci.blog
 ---
-Tak na prawdę walentynki polubiłam dopiero wtedy, gdy w moim domu pojawiła się Kicia. Każda okazja jest dobra, żeby zrobić tematyczną sesję zdjęciową. Kicia od małego dała się poznać jako mały złośnik, nie wiedzieć czemu pokazywała głównie tą ciemną stronę :P Dawkując swoją wrodzoną słodycz. Chyba nikt mi nie wierzył, że na co dzień jest przytulaskiem. Ta sesja w cukierkowo różowej oprawie była idealnym sposobem na ocieplenie jej wizerunku. Klimat walentynek przeniosłam też do Fundacji Miaukot. Efekty poniżej, nie które kotki nadal szukają domu.
+Tak na prawdę walentynki polubiłam dopiero wtedy, gdy w moim domu pojawiła się Kicia. Każda okazja jest dobra, żeby zrobić tematyczną sesję zdjęciową. Kicia od małego dała się poznać jako mały złośnik, nie wiedzieć czemu pokazywała głównie tą ciemną stronę :P Dawkując swoją wrodzoną słodycz. Chyba nikt mi nie wierzył, że na co dzień jest przytulaskiem. Ta sesja w cukierkowo różowej oprawie była idealnym sposobem na ocieplenie jej wizerunku. Klimat walentynek przeniosłam też do Fundacji Miaukot. Efekty oraz kulisy możecie obejrzeć poniżej, nie które kotki nadal szukają domu.
